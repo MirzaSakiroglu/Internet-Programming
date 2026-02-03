@@ -1,15 +1,15 @@
-# İnternet Programlama
+# Internet Programming
 
-## Ödevler
+## Assignments
 
-Hafta-2 -> İnternet Programlama genel kavramlar
+Week-2 -> General concepts of Internet Programming
 
-Hafta-2 -> Kütüphane Yönetim Sistemi Web sitesi
+Week-2 -> Library Management System Website
 
-Hafta-3 -> Kütüphane Yönetim Sistemi Web sitesi için kullanıcı girişleri ve Database entegrasyonu
+Week-3 -> User logins and Database integration for the Library Management System Website
 
-Hafta-4 -> Kütüphane Yönetim Sistemi Web sitesi için kullanıcı girişleri düzenlendi, yeni kullanıcı ekleme arayüzü oluşturuldu. Database içerisindeki veriler için frontend display güncellemeleri yapıldı
+Week-4 -> Refined user logins for the Library Management System and created a new user registration interface. Updated frontend display for database data
 
-Hafta-5 -> MVC Yapısı kullanılarak bir DB bağlantılı öğrenci yönetim sistemi geliştirildi
+Week-5 -> Developed a DB-connected student management system using the MVC Structure
 
-## Projeler
+## Projects
